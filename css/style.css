@@ -26,20 +26,20 @@ section {
    padding:100px 0 50px 0;
 }
 
-body{
+body {
   background-image: url("../images/background.jpg");
   background-attachment: fixed;
   background-position: center;
 }
 
-h1{
+h1 {
   color: white;
   text-align: center;
   font-size: 50px;
   font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
 }
 
-h2{
+h2 {
   box-shadow: 6px 6px 6px black;
   font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
 }
@@ -49,7 +49,11 @@ h2{
   color: black;
 }
 
-ul, p{
+ul, p {
   font-size: 20px;
   color: #EFF0FF;
+}
+
+ul, li {
+  list-style: none;
 }
